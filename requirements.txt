@@ -1,4 +1,4 @@
-datadog==0.17.0
+datadog==0.43.0
 decorator==4.2.1
 requests==2.18.4
 simplejson==3.13.2
