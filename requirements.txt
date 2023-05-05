@@ -1,5 +1,5 @@
 datadog==0.17.0
 decorator==4.2.1
-requests==2.18.4
+requests==2.30.0
 simplejson==3.13.2
 speedtest-cli==1.0.7
